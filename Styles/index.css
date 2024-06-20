@@ -1,0 +1,98 @@
+
+
+header{
+    background-color: rgb(209, 174, 243);
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: -1rem -1rem 2rem -1rem;
+    padding: 1rem; 
+    align-items: center;
+}
+
+.img-dahiana {
+    width: 7rem;
+    height: 9rem;
+    margin-left: 0%;
+}
+
+.PRESENTACION {
+    width: 100%;
+    padding: 1rem;
+
+}
+
+img{
+    width: 5rem;
+    height: 6rem;
+    margin-left: 0%;
+}
+
+.Mis_proyectos{
+    flex-wrap: wrap;
+    width: 90%;
+    height: auto;
+    padding: 1rem 1rem;
+    justify-content: center;
+    display: flex;
+}
+
+.proyecto1{
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    height: 7rem;
+    width: auto;
+    margin: 1rem;
+    background-color: rgb(217, 186, 245);
+}
+
+img{
+margin: 0rem;
+padding: 0rem;
+
+
+}
+.Referencias{
+ width: 90%;
+ height: auto;
+ padding: 1rem 1rem;
+ justify-content: center;
+ display: flex;
+}
+.Referencias2{
+
+    width: 90%;
+    height: auto;
+    padding: 1rem 1rem;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+   }
+.container{
+    border-radius: 15px;
+    margin: 5px;
+    width: 25%;
+    height: auto;
+    border: solid;
+    border-color: blueviolet;
+   padding: 15px;
+
+}
+
+.Experiencias{
+ flex-wrap: wrap;
+ width: 90%;
+ height: auto;
+ padding: 1rem 1rem;
+ justify-content: center;
+ display: flex;
+ 
+}
+
+.container-experiencias{
+   display: flex;
+}
+
+
